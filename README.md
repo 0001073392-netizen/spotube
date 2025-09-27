@@ -1,4 +1,4 @@
-<div align="center">
+meu cu<div align="center">
   <img width="600" src="assets/branding/spotube_banner.png" alt="Spotube Logo">
 
 A cross-platform extensible open-source music streaming platform.<br>
